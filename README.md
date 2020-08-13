@@ -1,16 +1,16 @@
 # Bitcoin Guide
 
-*Last Update: August 12, 2020*
+*Last Update: August 14, 2020*
 
-This guide is a brief introduction on bitcoin usage.
+This guide is a brief introduction on Bitcoin usage.
 
-For activists ("you") who escaped their country or in political exile, to a country where they have little friends and no family, bitcoin (abbreviated BTC) can be a method for family members abroad to transfer wealth over to the activist in a new foreign land, without going through the banking system.
+For activists who escaped their country or in political exile, to a country where they have little friends and no family, Bitcoin (abbreviated BTC) can be a method for family members abroad to transfer wealth over to the activist in a new foreign land, without going through the banking system.
 
 ## Using Bitcoin for daily expenses
 
-While numerous Internet servises such as [VPN](https://nordvpn.com) can be paid for using BTC, ideally you will be able to use your Bitcoin for daily expenses. This can be accomplished using a service that gives you a virtual and/or real credit via an anonymous BTC account. Here is a [list](http://www.bestbitcoincard.com/anonymous/) of such servies. Some servies like [this one](https://advcash.gi/en/solutions/) offers virtual credit card and/or physical credit card to their account holders (who can be anonymous), but is only offered in Europe. These can be a method to use Bitcoin for daily things like buying food or paying for lodging.
+While numerous Internet services such as [VPN](https://nordvpn.com) can be paid for using BTC, ideally you will be able to use your Bitcoin for daily expenses. This can be accomplished using a service that gives you a virtual and/or real credit via an anonymous BTC account. Here is a [list](http://www.bestbitcoincard.com/anonymous/) of such services. Some services like [this one](https://advcash.gi/en/solutions/) offers virtual credit card and/or physical credit card to their account holders (who can be anonymous), but is only offered in Europe. These can be a method to use Bitcoin for daily things like buying food or paying for lodging.
 
-Note that some services may decline these "bitcoin" credit cards, because they are not issued by typical financial institutions. In that case, you will need to find ATMs that will take the credit card to offer cash.
+Note that some services may decline these "Bitcoin" credit cards, because they are not issued by typical financial institutions. In that case, you will need to find ATMs that will take the credit card to offer cash.
 
 ## Buy Bitcoin either physically, or use a Bitcoin exchange
 
@@ -32,7 +32,7 @@ Instructions for setting up wallet:
 
 - Type in the name of your wallet (keep the name vague and anonymous enough), and hit next. Select "Standard Wallet" and "Create a new seed"
 
-- Select "Legacy" as tye Seed type
+- Select "Legacy" as the Seed type
 
 - Electrum will output a list of words. These words are really important, and you must keep it secret, and write it down on a secure physical notebook (don't store in a computer). If your wallet is lost, this list of words will be used to recover your wallet.
 
@@ -44,7 +44,7 @@ After following these steps, you will have created your wallet. To receive funds
 
 - "Receive" (right next to "Send")
 
-- Type in a safe Description (something like "transaction1") and leave requested amount Empty
+- Type in a safe Description (something like "transaction 1") and leave requested amount Empty
 
 - Select "Expires after" 1 day
 
@@ -54,7 +54,7 @@ After following these steps, you will have created your wallet. To receive funds
 
 - When you send BTC, there is a small transaction cost (required to pay BTC miners), and a few options. Select the smallest charge, as it doesn't make really too much of a difference in speed.
 
-After you setup your bitcoin wallet, you will be able to receive and spend BTC using this wallet.
+After you setup your Bitcoin wallet, you will be able to receive and spend BTC using this wallet.
 
 ---
 
