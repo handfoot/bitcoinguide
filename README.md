@@ -1,5 +1,7 @@
 # Bitcoin Guide
 
+*Last Update: August 12, 2020*
+
 This guide is a brief introduction on bitcoin usage.
 
 For activists ("you") who escaped their country or in political exile, to a country where they have little friends and no family, bitcoin (abbreviated BTC) can be a method for family members abroad to transfer wealth over to the activist in a new foreign land, without going through the banking system.
@@ -53,3 +55,8 @@ After following these steps, you will have created your wallet. To receive funds
 - When you send BTC, there is a small transaction cost (required to pay BTC miners), and a few options. Select the smallest charge, as it doesn't make really too much of a difference in speed.
 
 After you setup your bitcoin wallet, you will be able to receive and spend BTC using this wallet.
+
+---
+
+*If you would like to help improve this article, feel free to leave your suggestions in [issues](https://github.com/handfoot/bitcoinguide/issues/new), or email handfoot at protonmail dot com*
+
