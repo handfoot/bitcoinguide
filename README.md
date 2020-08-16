@@ -56,6 +56,20 @@ After following these steps, you will have created your wallet. To receive funds
 
 After you setup your Bitcoin wallet, you will be able to receive and spend BTC using this wallet.
 
+## Hardware Wallet
+
+
+![Electrum Screenshot](/img/trezor.png)
+
+*A Trezor One hardware cryptocurrency wallet.*
+
+For better security, I recommend getting a hardware wallet. It will store your private key that links your ownership of bitcoin on a secure physical device, outside of your computer, so that it will never be exposed in the public network.
+
+Get a wallet such as [Trezor One](https://shop.trezor.io/product/trezor-one-black). Sometimes they can be purchased cheaper on Amazon. You don't need to get the more expensive Trezor Model T, as the original Trezor One will do the job well.
+
+The hardware wallet can use Trezor's web-based interface to send / receive, and even to purchase bitcoin. Alternatively, Electrum wallet can also use it as well. You can use both Trezor and Electrum simultaneously.
+
+
 ---
 
 *If you would like to help improve this article, feel free to leave your suggestions in [issues](https://github.com/handfoot/bitcoinguide/issues/new), or email handfoot at protonmail dot com*
