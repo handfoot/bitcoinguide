@@ -1,6 +1,6 @@
 # Bitcoin Guide
 
-*Last Update: August 14, 2020*
+*Last Update: August, 2020*
 
 This guide is a brief introduction on Bitcoin usage.
 
@@ -65,10 +65,9 @@ After you setup your Bitcoin wallet, you will be able to receive and spend BTC u
 
 For better security, I recommend getting a hardware wallet. It will store your private key that links your ownership of bitcoin on a secure physical device, outside of your computer, so that it will never be exposed in the public network.
 
-Get a wallet such as [Trezor One](https://shop.trezor.io/product/trezor-one-black). Sometimes they can be purchased cheaper on Amazon. You don't need to get the more expensive Trezor Model T, as the original Trezor One will do the job well.
+Get a wallet such as [Trezor One](https://shop.trezor.io/product/trezor-one-black), which is really easy to use. Sometimes they can be purchased cheaper on Amazon. You don't need to get the more expensive Trezor Model T, as the original Trezor One will do the job well. Many people have relied on Trezor One to store vast sums of their bitcoin in *cold storage* (outside of an exchange, and outside of the computer). Just remember to keep the 12-24 word passcode somewhere very safe.
 
 The hardware wallet can use Trezor's web-based interface to send / receive, and even to purchase bitcoin. Alternatively, Electrum wallet can also use it as well. You can use both Trezor and Electrum simultaneously.
-
 
 ---
 
